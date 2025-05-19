@@ -1,6 +1,6 @@
 # Health Access Token (HAT)
 
-A smart contract built with Solidity & Hardhat, powering tokenized access control for healthcare financing. Designed to support **decentralized access**, **partner integrations**, and **fraud-resistant transactions** using role-based token transfers.
+A smart contract built with Solidity, Hardhat, & ERC-20 standardization. Powering tokenized access control for healthcare financing. Designed to support **decentralized access**, **partner integrations**, and **fraud-resistant transactions** using role-based token transfers.
 
 ---
 
